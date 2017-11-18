@@ -1,0 +1,17 @@
+{
+  "name": "turing-chatbot",
+  "version": "1.0.0",
+  "description": "turing-chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "git": "git add . && git commit -am \"daily update\" && git push"
+  },
+  "keywords": [
+    "robot",
+    "chatbot",
+    "turing"
+  ],
+  "author": "xiaofeng",
+  "license": "MIT"
+}
