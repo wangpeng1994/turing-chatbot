@@ -1,6 +1,6 @@
 {
   "name": "turing-chatbot",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "A interesting chatbot that you can run it from the command line",
   "main": "index.js",
   "bin": {
